@@ -28,11 +28,11 @@ Keep growing in fields such as AI, cloud computing, and cybersecurity.
 
 📫 Get in Touch
 
-<a href= "mailto:glm.inge7@gmail.com" target="_blank">
+<a href= "mailto:glm.inge7@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail">
 </a>
 
-<a href= "https://www.linkedin.com/in/ing-glm" target="_blank">
+<a href= "https://www.linkedin.com/in/ing-glm">
     <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
 
@@ -59,7 +59,7 @@ Keep growing in fields such as AI, cloud computing, and cybersecurity.
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/rogonzalo10" target="_blank">
+<a href= "https://www.instagram.com/rogonzalo10">
     <img src="https://skillicons.dev/icons?i=instagram">
 </a>
 
