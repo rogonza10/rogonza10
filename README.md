@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+Github!;I'm+A+Software+Engineer;CSHARP%20|%20SQL%20|%20.NET%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=gonzalopezm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=rogonza10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV5dDJhZjI0Z3o2b2x4em1wMXVlOHloajc4ejNkdGF5cnQ4YnYxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="30px">&nbsp;***About me***
@@ -28,11 +28,11 @@ Keep growing in fields such as AI, cloud computing, and cybersecurity.
 
 📫 Get in Touch
 
-<a href= "mailto:glm.inge7@gmail.com">
+<a href= "mailto:glm.inge7@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail">
 </a>
 
-<a href= "https://www.linkedin.com/in/ing-glm">
+<a href= "https://www.linkedin.com/in/ing-glm" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
 
@@ -59,13 +59,13 @@ Keep growing in fields such as AI, cloud computing, and cybersecurity.
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/rogonzalo10">
+<a href= "https://www.instagram.com/rogonzalo10" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram">
 </a>
 
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=gonzalopezm&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/gonzalopezm)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=gonzalopezm&theme=material-palenight)](https://github.com/gonzalopezm)
+[![](https://github-readme-stats.vercel.app/api?username=rogonza10&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/rogonza10)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=rogonza10&theme=material-palenight)](https://github.com/rogonza10)
 </div>
