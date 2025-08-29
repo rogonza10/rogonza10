@@ -39,13 +39,9 @@ Keep growing in fields such as AI, cloud computing, and cybersecurity.
 ## My Skills Include
 
 <h4> Languages </h4>
-<span> 
-  <img src="img src=https://skillicons.dev/icons?i=html">
-  <img src="img src=https://skillicons.dev/icons?i=css">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&labelColor=512BD4&logoColor=ffffff&logo=dot-net">
-  <img src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
-</span>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,dotnet,cs,sqlite)](https://skillicons.dev)
+
 
 
 <h4> Other Tools and Technologies </h4>
